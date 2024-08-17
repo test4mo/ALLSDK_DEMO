@@ -19,3 +19,11 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+## 不混淆
+-keep class com.google.** { *; }
+-keep class com.unity3d.** { *; }
+-keep class com.applovin.** { *; }
+-keep class com.adjust.** { *; }
+-keep class com.appsflyer.** { *; }
+-keep class com.facebook.** { *; }
