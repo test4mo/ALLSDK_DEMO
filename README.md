@@ -38,9 +38,11 @@ add to `AndroidManifest.xml`
 
 ```xml
     <Application ...>
+        <!-- Replace your admob APPLICATION_ID here -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3940256099942544~3347511713" />
+
         <meta-data
             android:name="com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT"
             android:value="true" />
