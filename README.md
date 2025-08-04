@@ -5,19 +5,8 @@
 Don't change library version
 
 ```groovy
-    // APPLOVIN
-    implementation 'com.adjust.sdk:adjust-android:4.28.7'
-    implementation("com.applovin:applovin-sdk:12.1.0@aar")
-
-    //FACEBOOK
-    implementation 'androidx.annotation:annotation:1.7.0'
-    implementation 'com.facebook.android:audience-network-sdk:6.16.0'
-
     // GOOGLE ADMOB
-    implementation 'com.google.android.gms:play-services-ads:22.5.0'
-
-    // UNITY
-    implementation 'com.unity3d.ads:unity-ads:4.9.2'
+    implementation 'com.google.android.gms:play-services-ads:24.4.0'
 ```
 
 ## II. Add permission
