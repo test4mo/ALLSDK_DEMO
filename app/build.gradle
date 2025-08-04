@@ -46,7 +46,7 @@ dependencies {
     // implementation 'com.facebook.android:audience-network-sdk:6.16.0'
 
     // GOOGLE ADMOB
-    implementation 'com.google.android.gms:play-services-ads:22.5.0'
+    implementation 'com.google.android.gms:play-services-ads:24.4.0'
 
     // UNITY
     // implementation 'com.unity3d.ads:unity-ads:4.9.2'
