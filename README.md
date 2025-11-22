@@ -6,7 +6,7 @@ Don't change library version
 
 ```groovy
     // GOOGLE ADMOB
-    implementation 'com.google.android.gms:play-services-ads:24.4.0'
+    implementation 'com.google.android.gms:play-services-ads:24.7.0'
 ```
 
 ## II. Add permission
